@@ -1,4 +1,5 @@
 
+## Summary 
 Telling a story with your data should arguably take precedence over anything else. 
 
 The best insights, dashboards, charts and machine learning models will not create impact unless you are able to effectively communicate with your stakeholders. 
@@ -6,6 +7,11 @@ The best insights, dashboards, charts and machine learning models will not creat
 In this mini project/task, I re-create a chart to understand the mix of the most profitable companies in the Fortune 1,000,i.e., Which industries are the most prevalent?” 
 
 Original chart and notebook by Data Science Dojo https://datasciencedojo.com/ as curated and presented by Gregory Kamradt https://www.linkedin.com/in/gregkamradt/
+
+## Project tools
+ 1. Google Colab Notebook
+ 2. Python 
+
 
 ## Project steps
 1. import pandas and plotly.express libraries to help deal with tabular data and chars respectively 

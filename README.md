@@ -1,4 +1,4 @@
-## Tell Your Story: Data-VIZ
+
 Telling a story with your data should arguably take precedence over anything else. 
 
 The best insights, dashboards, charts and machine learning models will not create impact unless you are able to effectively communicate with your stakeholders. 
@@ -17,3 +17,4 @@ Original chart and notebook by Data Science Dojo https://datasciencedojo.com/ as
 7. created the chart using the plotly.express package
 8. Finally displayed the top companies as reflected in the chart (df.sort_values(by='profit', ascending=False).head())
 
+Note: The project was created using Google Colab https://colab.research.google.com/

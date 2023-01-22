@@ -23,5 +23,5 @@ In this mini project/task, I re-create a chart to understand the mix of the most
 7. created the chart using the plotly.express package
 8. Finally displayed the top companies as reflected in the chart (df.sort_values(by='profit', ascending=False).head())
 
-Note: The project was created using Google Colab https://colab.research.google.com/
+Note: The project was created using Google Colab https://colab.research.google.com/;
 Original conent/notebook is attributed to Data Science Dojo https://datasciencedojo.com/ as curated and presented by Gregory Kamradt https://www.linkedin.com/in/gregkamradt/
